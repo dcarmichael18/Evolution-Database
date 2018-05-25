@@ -1,15 +1,15 @@
 # Evolution-Database
 Created by Dorothy Carmichael
 ## Purpose
-An Access database created to help organize unit costs and requirements to "evolve" characters in the game One Piece Trasure Cruise.
+An Access database created to help organize unit costs and requirements to "evolve" characters in the game One Piece Treasure Cruise.
 ## Contents
 ### Tables
-#### Evolvers
+#### evolvers
 ID: Primary key, identifies evolver in database.  
 evo_name: Human-readable name of evolver.  
 owned: How many of the evolver are currently owned.  
 Sorted by ID.
-#### Units
+#### units
 ID: Primary key, identifies unit in databse.  
 unit_name: Human-readable name of unit. May include identifier for variant versions.  
 level: Current level of unit.  
